@@ -1,0 +1,7 @@
+{
+  "name": "citycenter",
+  "description": "the city center XRPackage",
+  "xr_type": "webxr-site@0.0.1",
+  "start_url": "citycenter.glb",
+  "physics_url": "citycenter.bin"
+}
